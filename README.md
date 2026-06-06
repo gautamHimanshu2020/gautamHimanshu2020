@@ -51,7 +51,7 @@ Git • GitHub • Bitbucket • Jira • Trello • Swagger/OpenAPI
 
 ### 📰 Bharat Today Tech
 
-🔗 https://bharattodaytech.com/
+🔗 [Bharat Today Tech](https://bharattodaytech.com/)
 
 Technology-focused content platform covering AI, software engineering, startups, cloud computing, and modern development practices.
 
@@ -61,7 +61,7 @@ Technology-focused content platform covering AI, software engineering, startups,
 
 ### 📄 PDFCraftor
 
-🔗 https://pdfcraftor.com/
+🔗 [PDFCraftor](https://pdfcraftor.com/)
 
 A collection of 64+ browser-based tools for PDF, Image, Text, SEO, and productivity workflows.
 
@@ -71,7 +71,7 @@ A collection of 64+ browser-based tools for PDF, Image, Text, SEO, and productiv
 
 ### 🏏 Vision11 Fantasy Sports
 
-🔗 https://www.vision11.in/
+🔗 [Vision11](https://www.vision11.in/)
 
 Large-scale fantasy sports platform supporting real-time scoring, contests, leaderboards, and player analytics.
 
@@ -89,7 +89,7 @@ Large-scale fantasy sports platform supporting real-time scoring, contests, lead
 
 ### 🌍 Kooling
 
-🔗 https://kooling.io/
+🔗 [Kooling](https://kooling.io/)
 
 Carbon footprint tracking platform focused on sustainability, IoT integrations, and environmental impact analytics.
 
@@ -99,7 +99,7 @@ Carbon footprint tracking platform focused on sustainability, IoT integrations, 
 
 ### 📈 Comprosition
 
-🔗 https://www.comprosition.com/
+🔗 [Comprosition](https://www.comprosition.com/)
 
 Business management and operational workflow platform designed to streamline organizational processes.
 
@@ -109,7 +109,7 @@ Business management and operational workflow platform designed to streamline org
 
 ### 🎓 Make My Exam
 
-🔗 https://www.makemyexam.in/
+🔗 [Make My Exam](https://www.makemyexam.in/)
 
 Online examination and educational platform for assessments, learning management, and performance analytics.
 
@@ -119,7 +119,7 @@ Online examination and educational platform for assessments, learning management
 
 ### 🏥 DAMS Delhi
 
-🔗 https://www.damsdelhi.com/
+🔗[DAMS Delhi](https://www.damsdelhi.com/)
 
 India's leading medical entrance preparation and education platform.
 
