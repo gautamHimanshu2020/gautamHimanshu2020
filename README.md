@@ -133,7 +133,7 @@ India's leading medical entrance preparation and education platform.
 
 B2B Agri-Commerce platform built on a microservices architecture for large-scale agricultural trade.
 
-**Tech:** Node.js • React • Redis • Firebase • Socket.IO
+**Tech:** Node.js • React • Redis • Firebase • Socket.IO • MySQL
 
 ---
 
@@ -141,7 +141,7 @@ B2B Agri-Commerce platform built on a microservices architecture for large-scale
 
 Subscription-based fitness platform with Shopify API integrations, OAuth flows, and webhook automation.
 
-**Tech:** Laravel • Azure • Shopify APIs
+**Tech:** Laravel • Azure • Shopify APIs • Auth0 Authentication 
 
 ---
 
@@ -162,7 +162,7 @@ Enterprise-grade asset lifecycle and management platform for large organizations
 * Improved asset retrieval performance by 70%
 * Centralized asset monitoring and reporting
 
-**Tech:** Laravel • Redis • MySQL • REST APIs
+**Tech:** Laravel • Redis • MySQL • REST APIs • SuperVisor • AWS • S3 • RDS 
 
 ---
 
