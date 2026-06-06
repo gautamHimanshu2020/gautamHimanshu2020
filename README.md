@@ -1,3 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=gautamHimanshu2020)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 # Hi 👋, I'm Himanshu Gautam
 
 ### Senior Software Engineer | Laravel | Node.js | React.js | Microservices | Cloud Architecture
